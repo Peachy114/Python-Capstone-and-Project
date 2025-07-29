@@ -1,4 +1,3 @@
-# Python-Capstone-and-Project
 # 🐍 Python Capstone and Project Collection
 
 Welcome to my Python project showcase!  
@@ -49,10 +48,23 @@ Great for learning:
 
 ---
 
+### 🧮 4. Python Calculator
+A basic calculator that can handle addition, subtraction, multiplication, and division.  
+It loops for multiple operations and includes error checks for invalid inputs and division by zero.
+
+Great for learning:
+- Functions
+- Math operations
+- While loops and recursion
+- Clean input handling
+
+📂 Folder: `Calculator Project`
+
+---
+
 ## 🚀 How to Run the Projects
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/Python-Capstone-and-Project.git
+git clone https://github.com/Peachy114/Python-Capstone-and-Project.git
 cd Python-Capstone-and-Project
-
